@@ -1,7 +1,7 @@
-# STGF-R-CNN
-STGF R-CNN code
+# STGF-R-CNN \n
+STGF R-CNN code \n
 
-Reference URL：
+Reference URL:\n
 1:PaddleDetection
 https://github.com/PaddlePaddle/PaddleDetection
 2:mmdetection
