@@ -11,3 +11,7 @@ https://github.com/open-mmlab/mmdetection
 5. Pay attention to version compatibility issues. The Paddle version I use is:  
 full_version = '2.4.0'  
 commit = 'bb4fbe84252608a3bb52dc794fec10af169b5c0e'  
+
+
+
+The data set used in this study is private. If you are interested in our work, please contact the corresponding author.  
